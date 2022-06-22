@@ -1,10 +1,12 @@
 ### Hi there 👋
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 
 <!--
 **LovesWorking/LovesWorking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-/play yeah
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
