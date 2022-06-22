@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Austin Johnson, a passionate full stack web developer from Portland, Oregon! i currently live in Denver, Colorado.
+### I'm Austin Johnson, a passionate full stack web developer from Portland, Oregon. I currently live in Denver, Colorado.
 
 ### I code with
 
