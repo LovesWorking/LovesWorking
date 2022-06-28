@@ -1,6 +1,9 @@
 ### Hi there 👋
 ### I'm Austin Johnson, a passionate full stack web developer from Portland, Oregon. I currently live in Denver, Colorado.
 
+15 +years of software Engineer experience with a passion for building and deploying full stack applications.
+
+
 ### I code with
 
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c7565](https://user-images.githubusercontent.com/103286713/175134786-3e5a7a4d-c6ed-4753-9c4a-38cb75b88855.svg)
