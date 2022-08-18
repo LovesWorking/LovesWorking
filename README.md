@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Austin Johnson, a passionate full stack web developer. I currently live in Denver, Colorado.
+
+
 <!--
 **LovesWorking/LovesWorking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
