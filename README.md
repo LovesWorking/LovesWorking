@@ -4,7 +4,7 @@ I'm Austin Johnson, a passionate full stack web developer living in Denver, Colo
 
 ### my website -> www.loveswork.net <-
 
-I’m currently working with Angular and Java at Optum! 
+I’m currently working with Angular and .net 
 
 Technologies I'm experinced in
 
