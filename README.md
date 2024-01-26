@@ -18,6 +18,7 @@ Technologies I'm experinced with and use day to day at my current job.
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Next Auth](https://img.shields.io/badge/Next%20Auth-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 Technologies I've had experince with at my current or previous jobs.
 
