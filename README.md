@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Austin Johnson, a passionate full stack web developer living in Denver, Colorado.
+I'm Austin Johnson, a passionate full stack web developer.
 
 ### my website -> www.loveswork.net <-
 
