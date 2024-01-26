@@ -2,8 +2,6 @@
 
 I'm Austin Johnson, a passionate full stack web developer.
 
-### my website -> www.loveswork.net <-
-
 Technologies I'm experinced with and use day to day at my current job.
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
