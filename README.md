@@ -36,6 +36,15 @@ Technologies I've had experince with at my current or previous jobs.
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+## ✨Most recent Open Source projects 
+React Query Dev Tools For React Native!
+⚡ https://github.com/LovesWorking/react-native-react-query-devtools 
+
+External dashboard to manage react query state in web, android & iOS
+https://github.com/LovesWorking/react-query-external-sync
+![rn-dev-tools-hq](https://github.com/LovesWorking/LovesWorking/assets/111514077/3c6a2d9f-1320-48cc-92f3-affe02f877ea)
+![rn-dev-tools-server](https://github.com/LovesWorking/LovesWorking/assets/111514077/48ac863f-956f-47ef-9d37-e2606bef91e4)
+
 <!--
 **LovesWorking/LovesWorking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
