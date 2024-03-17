@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Austin Johnson, a passionate full stack web developer who's worked for awesome companies like  KwikTrip, Wayfair, AAA and Homedepot.
+I'm Austin Johnson, a passionate full stack web developer who's worked for awesome companies like  KwikTrip, Wayfair, AAA, Homedepot and Google.
 
 <p align="center">
   <a href="#"><img src="https://github.com/LovesWorking/LovesWorking/assets/111514077/31b43bea-2b46-4f53-9304-bcf3f74caf1c" alt="Kwik Trip" width="50"/></a>
