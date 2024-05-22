@@ -10,6 +10,7 @@ I'm Austin Johnson, a passionate full stack web developer who's worked for aweso
   <a href="#"><img src="https://github.com/LovesWorking/LovesWorking/assets/111514077/9c0df39f-7e23-4e42-b65c-dcdb7679f1c8" alt="Google" width="50"/></a>
 </p>
 
+ 🌴Looking for a web/mobile developer? I'm actively seeking my next opportunity. Feel free to message me on LinkedIn! https://www.linkedin.com/in/lovesworking/
 
 
 
