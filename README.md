@@ -46,11 +46,11 @@ Technologies I'm experienced with
 
 ## ✨Most recent Open Source projects 
 React Query Dev Tools For React Native!
-⚡ https://github.com/LovesWorking/react-native-react-query-devtools 
+⚡ [https://github.com/LovesWorking/react-native-react-query-devtools ](https://github.com/LovesWorking/tanstack-query-dev-tools-expo-plugin/tree/main)
 
 External dashboard to manage react query state in web, android & iOS
 https://github.com/LovesWorking/react-query-external-sync
-![rn-dev-tools-hq](https://github.com/LovesWorking/LovesWorking/assets/111514077/3c6a2d9f-1320-48cc-92f3-affe02f877ea)
+![actions](https://github.com/user-attachments/assets/dcedd904-c32a-4931-8fab-30bf9fb1cf1a)
 ![rn-dev-tools-server](https://github.com/LovesWorking/LovesWorking/assets/111514077/48ac863f-956f-47ef-9d37-e2606bef91e4)
 
 <!--
