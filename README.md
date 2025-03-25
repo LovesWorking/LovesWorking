@@ -48,7 +48,7 @@ Technologies I'm experienced with
 React Query Dev Tools For React Native!
 ⚡ [https://github.com/LovesWorking/react-native-react-query-devtools ](https://github.com/LovesWorking/tanstack-query-dev-tools-expo-plugin/tree/main)
 
-External dashboard to manage react query state in web, android & iOS
+External dashboard to manage react query state in web, android & iOS (Soon will support the actual dev tools)
 https://github.com/LovesWorking/react-query-external-sync
 ![actions](https://github.com/user-attachments/assets/dcedd904-c32a-4931-8fab-30bf9fb1cf1a)
 ![rn-dev-tools-server](https://github.com/LovesWorking/LovesWorking/assets/111514077/48ac863f-956f-47ef-9d37-e2606bef91e4)
