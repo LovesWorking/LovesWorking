@@ -16,7 +16,7 @@
 ## 🏢 Professional Journey
 
 <div align="center">
-  <p>I've contributed to amazing products at companies like:</p>
+  <p>I've worked at amazing companies like:</p>
   <a href="#"><img src="https://github.com/LovesWorking/LovesWorking/assets/111514077/31b43bea-2b46-4f53-9304-bcf3f74caf1c" alt="Kwik Trip" width="60" style="margin: 0 10px"/></a>
   <a href="#"><img src="https://github.com/LovesWorking/LovesWorking/assets/111514077/e8e8953e-409f-4287-86a2-dee4df2c3313" alt="Wayfair" width="60" style="margin: 0 10px"/></a>
   <a href="#"><img src="https://github.com/LovesWorking/LovesWorking/assets/111514077/9786fecf-c80c-4f6c-a699-23faaf8d09da" alt="AAA" width="60" style="margin: 0 10px"/></a>
@@ -98,7 +98,6 @@
 
 <br>
 
----
 
 <div align="center">
   
@@ -157,12 +156,28 @@
 
 <div align="center">
 
+## 🌟 Featured Repos & Contributions
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LovesWorking&repo=rn-better-dev-tools&theme=tokyonight&hide_border=true)](https://github.com/LovesWorking/rn-better-dev-tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LovesWorking&repo=tanstack-query-dev-tools-expo-plugin&theme=tokyonight&hide_border=true)](https://github.com/LovesWorking/tanstack-query-dev-tools-expo-plugin)
+
+</div>
+
+<br>
+
+<div align="center">
+
 ### 📸 Visual Showcase
 
 <img src="https://github.com/user-attachments/assets/39e5c417-be4d-46af-8138-3589d73fce9f" alt="React Query External Sync Demo - macOS App" style="max-width: 90%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 <img src="https://github.com/user-attachments/assets/60e704c1-621e-4743-b6a7-64b2c3291c97" alt="iOS Device Testing - Real-time debugging" style="max-width: 90%; border-radius: 10px; margin-top: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>
+
+</div>
 
 <!--
 **LovesWorking/LovesWorking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
