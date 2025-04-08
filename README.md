@@ -1,6 +1,6 @@
 <div align="center">
   
-# ⚡ Austin Johnson ⚡
+# ⚡ Code Anderson ⚡
 
 ### React Native & Frontend Engineering Wizard
 
