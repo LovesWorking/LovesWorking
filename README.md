@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Austin Johnson, a passionate developer who's worked for awesome companies like  KwikTrip, Wayfair, AAA, Homedepot and Google.
+I'm Austin Johnson, a passionate developer who's worked for awesome companies like KwikTrip, Wayfair, AAA, Homedepot and Google.
 
 <p align="center">
   <a href="#"><img src="https://github.com/LovesWorking/LovesWorking/assets/111514077/31b43bea-2b46-4f53-9304-bcf3f74caf1c" alt="Kwik Trip" width="50"/></a>
@@ -10,11 +10,7 @@ I'm Austin Johnson, a passionate developer who's worked for awesome companies li
   <a href="#"><img src="https://github.com/LovesWorking/LovesWorking/assets/111514077/9c0df39f-7e23-4e42-b65c-dcdb7679f1c8" alt="Google" width="50"/></a>
 </p>
 
-
-
-
-
-Technologies I'm experienced with
+## Technologies I'm experienced with
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
@@ -31,7 +27,7 @@ Technologies I'm experienced with
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Next Auth](https://img.shields.io/badge/Next%20Auth-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
@@ -44,24 +40,35 @@ Technologies I'm experienced with
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## ✨Most recent Open Source projects 
-React Query Dev Tools For React Native!
-⚡ [tanstack-query-dev-tools-expo-plugin](https://github.com/LovesWorking/tanstack-query-dev-tools-expo-plugin/tree/main)
+## ✨ Most recent Open Source projects
 
-External dashboard to manage react query state in web, android & iOS (Soon will support the actual dev tools)
-https://github.com/LovesWorking/react-query-external-sync
-![actions](https://github.com/user-attachments/assets/dcedd904-c32a-4931-8fab-30bf9fb1cf1a)
-![rn-dev-tools-server](https://github.com/LovesWorking/LovesWorking/assets/111514077/48ac863f-956f-47ef-9d37-e2606bef91e4)
+### 🛠️ React Native DevTools
+A beautiful native macOS desktop application for React Native debugging (currently featuring React Query DevTools)
+⚡ [React-Native-Better-Dev-Tools](https://github.com/LovesWorking/rn-better-dev-tools/tree/main)
+- Real-time query monitoring across all React platforms
+- Beautiful native UI optimized for macOS
+- Supports iOS, Android, Web, tvOS, Apple Vision Pro, Android TV, VR/AR and more
+
+### 📱 React Query DevTools Expo Plugin
+Seamlessly integrate React Query DevTools with Expo projects
+⚡ [tanstack-query-dev-tools-expo-plugin](https://github.com/LovesWorking/tanstack-query-dev-tools-expo-plugin/tree/main)
+- Zero-config setup for Expo developers
+- Works with the latest Expo and React Query versions
+- Enhanced debugging experience for mobile developers
+
+![React Query External Sync Demo - macOS App](https://github.com/user-attachments/assets/39e5c417-be4d-46af-8138-3589d73fce9f)
+
+![iOS Device Testing - Real-time debugging](https://github.com/user-attachments/assets/60e704c1-621e-4743-b6a7-64b2c3291c97)
 
 <!--
 **LovesWorking/LovesWorking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
