@@ -15,19 +15,12 @@
 
 ## 🏢 Professional Journey
 
-<div align="center">
-  <p>I've worked at amazing companies like:</p>
+ <p align="center">I've worked at amazing companies like:</p>
 
-  <a href="#"><img src="https://github.com/user-attachments/assets/8100488b-86bc-485f-afe1-47939904772f" alt="OverJoy"  width="60" style="margin: 0 10px"/></a>
-  <a href="#"><img src="https://github.com/user-attachments/assets/0909f67a-4370-46e7-928b-715c8c26521a" alt="Integro"  width="60" style="margin: 0 10px"/></a>
-  <a href="#"><img src="https://github.com/user-attachments/assets/e28c8e5f-4893-4a03-a9bb-0422e65d49d2" alt="You"  width="60" style="margin: 0 10px"/></a>
-  <a href="#"><img src="https://github.com/user-attachments/assets/83610d15-016b-4122-b43b-2376740937b7" alt="Gloo"  width="60" style="margin: 0 10px"/></a>
-  <a href="#"><img src="https://github.com/LovesWorking/LovesWorking/assets/111514077/31b43bea-2b46-4f53-9304-bcf3f74caf1c" alt="Kwik Trip" width="60" style="margin: 0 10px"/></a>
-  <a href="#"><img src="https://github.com/LovesWorking/LovesWorking/assets/111514077/e8e8953e-409f-4287-86a2-dee4df2c3313" alt="Wayfair" width="60" style="margin: 0 10px"/></a>
-  <a href="#"><img src="https://github.com/LovesWorking/LovesWorking/assets/111514077/9786fecf-c80c-4f6c-a699-23faaf8d09da" alt="AAA" width="60" style="margin: 0 10px"/></a>
-  <a href="#"><img src="https://github.com/LovesWorking/LovesWorking/assets/111514077/d3ea4036-8738-4500-b861-76f1c93520f5" alt="Homedepot" width="60" style="margin: 0 10px"/></a>
-  <a href="#"><img src="https://github.com/LovesWorking/LovesWorking/assets/111514077/9c0df39f-7e23-4e42-b65c-dcdb7679f1c8" alt="Google" width="60" style="margin: 0 10px"/></a>
-</div>
+| **OverJoy** | **Integro** | **You** | **Gloo** | **Kwik Trip** | **Wayfair** | **AAA** | **Home Depot** | **Google** |
+|---|---|---|---|---|---|---|---|---|
+| <a href="#"><img src="https://github.com/user-attachments/assets/8100488b-86bc-485f-afe1-47939904772f" alt="OverJoy" width="60"/></a> | <a href="#"><img src="https://github.com/user-attachments/assets/0909f67a-4370-46e7-928b-715c8c26521a" alt="Integro" width="60"/></a> | <a href="#"><img src="https://github.com/user-attachments/assets/e28c8e5f-4893-4a03-a9bb-0422e65d49d2" alt="You" width="60"/></a> | <a href="#"><img src="https://github.com/user-attachments/assets/83610d15-016b-4122-b43b-2376740937b7" alt="Gloo" width="60"/></a> | <a href="#"><img src="https://github.com/LovesWorking/LovesWorking/assets/111514077/31b43bea-2b46-4f53-9304-bcf3f74caf1c" alt="Kwik Trip" width="60"/></a> | <a href="#"><img src="https://github.com/LovesWorking/LovesWorking/assets/111514077/e8e8953e-409f-4287-86a2-dee4df2c3313" alt="Wayfair" width="60"/></a> | <a href="#"><img src="https://github.com/LovesWorking/LovesWorking/assets/111514077/9786fecf-c80c-4f6c-a699-23faaf8d09da" alt="AAA" width="60"/></a> | <a href="#"><img src="https://github.com/LovesWorking/LovesWorking/assets/111514077/d3ea4036-8738-4500-b861-76f1c93520f5" alt="Home Depot" width="60"/></a> | <a href="#"><img src="https://github.com/LovesWorking/LovesWorking/assets/111514077/9c0df39f-7e23-4e42-b65c-dcdb7679f1c8" alt="Google" width="60"/></a> |
+
 
 <br>
 
