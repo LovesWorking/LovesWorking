@@ -26,7 +26,9 @@
 
 ### <img src="https://media.giphy.com/media/3oKIPeSlkkwh3Pt6A8/giphy.gif" width="30"> Desktop External React Native DevTools
 <div align="center">
+  <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Platform: Windows">
   <img src="https://img.shields.io/badge/Platform-macOS-black?style=for-the-badge&logo=apple&logoColor=white" alt="Platform: macOS">
+  <img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Platform: Linux">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status: Active">
   <img src="https://img.shields.io/badge/Made_with-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Made with: Electron">
 </div>
@@ -50,7 +52,11 @@
 
 ### <img src="https://media.giphy.com/media/UtkJymPFT6LyE/giphy.gif" width="30"> React Buoy DevTools
 <div align="center">
-  <img src="https://img.shields.io/badge/Platform-React_Native-blue?style=for-the-badge&logo=react&logoColor=white" alt="Platform: React Native">
+  <img src="https://img.shields.io/badge/Platform-iOS-black?style=for-the-badge&logo=apple&logoColor=white" alt="Platform: iOS">
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Platform: Android">
+  <img src="https://img.shields.io/badge/Platform-Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Platform: Web">
+  <img src="https://img.shields.io/badge/Platform-Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Platform: Expo">
+  <img src="https://img.shields.io/badge/Platform-React_Native_CLI-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Platform: React Native CLI">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status: Active">
   <img src="https://img.shields.io/badge/Integration-TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="Integration: TanStack Query">
 </div>
