@@ -15,8 +15,6 @@
 
 ## 🏢 Professional Journey
 
-<p align="center">I've worked at amazing companies like:</p>
-
  <img width="1320" height="330" alt="new1" src="https://github.com/user-attachments/assets/ab830719-a04e-440e-a299-72bd67a46aab" />
 
 <br>
