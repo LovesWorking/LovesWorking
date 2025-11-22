@@ -4,9 +4,6 @@
 
 ### React Native Engineer • DevTools Builder • Open Source Contributor
 
-[![Profile Views](https://komarev.com/ghpvc/?username=LovesWorking&color=blueviolet&style=for-the-badge)](https://github.com/LovesWorking)
-[![GitHub followers](https://img.shields.io/github/followers/LovesWorking?style=for-the-badge&logo=github&color=6c5ce7)](https://github.com/LovesWorking?tab=followers)
-
 </div>
 
 <div align="center">
