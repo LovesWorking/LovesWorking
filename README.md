@@ -17,11 +17,8 @@
 
 <p align="center">I've worked at amazing companies like:</p>
 
-| **Whataburger** | **OverJoy** | **Integro** | **You** | **Gloo** | **Kwik Trip** | **Wayfair** | **AAA** | **Home Depot** | **Google** |
-|---|---|---|---|---|---|---|---|---|---|
-| <a href="#"><img src="https://github.com/user-attachments/assets/f8ba9daf-024a-468a-a5f2-34b308f9583e" alt="Whataburger" width="60"/></a> | <a href="#"><img src="https://github.com/user-attachments/assets/8100488b-86bc-485f-afe1-47939904772f" alt="OverJoy" width="60"/></a> | <a href="#"><img src="https://github.com/user-attachments/assets/e48b91e0-a4f7-4fd8-8c48-fd4044102ca3" alt="Integro" width="60"/></a> | <a href="#"><img src="https://github.com/user-attachments/assets/e28c8e5f-4893-4a03-a9bb-0422e65d49d2" alt="You" width="60"/></a> | <a href="#"><img src="https://github.com/user-attachments/assets/83610d15-016b-4122-b43b-2376740937b7" alt="Gloo" width="60"/></a> | <a href="#"><img src="https://github.com/LovesWorking/LovesWorking/assets/111514077/31b43bea-2b46-4f53-9304-bcf3f74caf1c" alt="Kwik Trip" width="60"/></a> | <a href="#"><img src="https://github.com/LovesWorking/LovesWorking/assets/111514077/e8e8953e-409f-4287-86a2-dee4df2c3313" alt="Wayfair" width="60"/></a> | <a href="#"><img src="https://github.com/LovesWorking/LovesWorking/assets/111514077/9786fecf-c80c-4f6c-a699-23faaf8d09da" alt="AAA" width="60"/></a> | <a href="#"><img src="https://github.com/LovesWorking/LovesWorking/assets/111514077/d3ea4036-8738-4500-b861-76f1c93520f5" alt="Home Depot" width="60"/></a> | <a href="#"><img src="https://github.com/LovesWorking/LovesWorking/assets/111514077/9c0df39f-7e23-4e42-b65c-dcdb7679f1c8" alt="Google" width="60"/></a> |
+ <img width="1320" height="330" alt="new1" src="https://github.com/user-attachments/assets/ab830719-a04e-440e-a299-72bd67a46aab" />
 
- 
 <br>
 
 <div align="center">
