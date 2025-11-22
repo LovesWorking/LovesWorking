@@ -17,76 +17,30 @@
 <br>
 
 <div align="center">
-  
+
 ## 🔥 Featured Open Source Projects 🔥
+</div>
+<br>
 
+<div align="center">
+  <a href="https://github.com/LovesWorking/rn-better-dev-tools/tree/main">
+    <img width="1335" alt="Desktop External React Native DevTools" src="https://github.com/user-attachments/assets/b87d2789-2863-44f0-b138-413ef85a5aa4" />
+  </a>
 </div>
 
 <br>
 
-### <img src="https://media.giphy.com/media/3oKIPeSlkkwh3Pt6A8/giphy.gif" width="30"> Desktop External React Native DevTools
 <div align="center">
-  <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Platform: Windows">
-  <img src="https://img.shields.io/badge/Platform-macOS-black?style=for-the-badge&logo=apple&logoColor=white" alt="Platform: macOS">
-  <img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Platform: Linux">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status: Active">
-  <img src="https://img.shields.io/badge/Made_with-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Made with: Electron">
+  <a href="https://github.com/LovesWorking/react-native-buoy">
+    <img width="1339" alt="React Buoy DevTools" src="https://github.com/user-attachments/assets/04dc8984-ac53-4ad2-847a-bfc48e5500d9" />
+  </a>
 </div>
 
-> A gorgeous native macOS application for React Native debugging with React Query DevTools and more
-
-⚡ [React-Native-Better-Dev-Tools](https://github.com/LovesWorking/rn-better-dev-tools/tree/main)
-
-<details>
-<summary><b>✨ Key Features</b></summary>
-
-- 🔄 Real-time query monitoring across all React platforms
-- 🎨 Beautiful native UI optimized for macOS
-- 📱 Supports iOS, Android, Web, tvOS, Apple Vision Pro, Android TV, VR/AR and more
-- 🔌 Socket.IO integration for reliable device communication
-- 🚀 Simple setup with NPM package
-
-</details>
-
 <br>
-
-### <img src="https://media.giphy.com/media/UtkJymPFT6LyE/giphy.gif" width="30"> React Buoy DevTools
 <div align="center">
-  <img src="https://img.shields.io/badge/Platform-iOS-black?style=for-the-badge&logo=apple&logoColor=white" alt="Platform: iOS">
-  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Platform: Android">
-  <img src="https://img.shields.io/badge/Platform-Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Platform: Web">
-  <img src="https://img.shields.io/badge/Platform-Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Platform: Expo">
-  <img src="https://img.shields.io/badge/Platform-React_Native_CLI-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Platform: React Native CLI">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status: Active">
-  <img src="https://img.shields.io/badge/Integration-TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="Integration: TanStack Query">
-</div>
 
-> Floating DevTools menu for React Native with environment indicators, network monitor, storage browser, React Query DevTools, JSON diff + type filtering, and support for custom tools.
-
-⚡ [react-native-buoy](https://github.com/LovesWorking/react-native-buoy)
-
-<details>
-<summary><b>✨ Key Features</b></summary>
-
-- 🏷️ Env & role badges always visible  
-- 📡 Network Monitor with timeline  
-- 💾 Storage Browser with live updates  
-- ⚡ React Query DevTools  
-- 🧩 JSON viewer with tree, diff, and type filters  
-- 🔌 Add your own tools (any React component)  
-- 🔄 Persists through reloads/crashes  
-- 🪟 Resizable floating modals → bottom sheets  
-
-</details>
-
-<br>
-
-<div align="center">
 
 ## 🌟 Featured Repos & Contributions
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LovesWorking&repo=rn-better-dev-tools&theme=tokyonight&hide_border=true)](https://github.com/LovesWorking/rn-better-dev-tools)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LovesWorking&repo=react-native-buoy&theme=tokyonight&hide_border=true)](https://github.com/LovesWorking/react-native-buoy)
 
 </div>
 
