@@ -2,13 +2,18 @@
 
 # ⚡ Austin (LovesWorking) ⚡
 
-### React Native Engineer • DevTools Builder • Open Source Contributor
+### Founder @ Buoy · React Native DevTools · Helping teams debug faster
+
 
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C5CE7&center=true&vCenter=true&width=435&lines=React+Native+DevTools+Builder;Passionate+Mobile+Developer;Open+Source+Contributor;Always+Improving+DX" alt="Typing SVG" />
 </div>
+
+## About Me
+
+I'm the founder of **[Buoy](https://buoy.gg)** — zero-config mobile debugging tools for React Native.
 
 ## 🏢 Professional Journey
 
@@ -18,7 +23,7 @@
 
 <div align="center">
   
-## 🔥 Featured Open Source Projects 🔥
+## 🔥 Featured 🔥
 
 </div>
 
@@ -71,15 +76,6 @@
 
 <br>
 
-<div align="center">
-
-## 🌟 Featured Repos & Contributions
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LovesWorking&repo=rn-better-dev-tools&theme=tokyonight&hide_border=true)](https://github.com/LovesWorking/rn-better-dev-tools)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LovesWorking&repo=react-native-buoy&theme=tokyonight&hide_border=true)](https://github.com/LovesWorking/react-native-buoy)
-
-</div>
-
 <br>
 
 <div align="center">
@@ -93,11 +89,6 @@
 <img src="https://github.com/user-attachments/assets/60e704c1-621e-4743-b6a7-64b2c3291c97" alt="iOS Device Testing - Real-time debugging" style="max-width: 90%; border-radius: 10px; margin-top: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>
-
-</div>
 
 <!--
 **LovesWorking/LovesWorking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
