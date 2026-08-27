@@ -17,7 +17,7 @@ I'm the founder of **[Buoy](https://buoy.gg)** — zero-config mobile debugging 
 
 ## 🏢 Professional Journey
 
- <img width="1320" height="330" alt="new1" src="https://github.com/user-attachments/assets/ab830719-a04e-440e-a299-72bd67a46aab" />
+<img width="1400" height="350" alt="banner" src="https://github.com/user-attachments/assets/26c42ccb-d2b1-48a5-bc97-33a14fdb9d68" />
 
 <br>
 
@@ -34,14 +34,14 @@ I'm the founder of **[Buoy](https://buoy.gg)** — zero-config mobile debugging 
   <img src="https://img.shields.io/badge/Platform:-grey?style=for-the-badge" alt="Platform:"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"><img src="https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </div>
 
-> A gorgeous native macOS application for React Native debugging with React Query DevTools and more
+> A gorgeous native macOS application for React Native debugging with every tool you'll ever need!
 
 ⚡ [React-Native-Better-Dev-Tools](https://github.com/LovesWorking/rn-better-dev-tools/tree/main)
 
 <details>
 <summary><b>✨ Key Features</b></summary>
 
-- 🔄 Real-time query monitoring across all React platforms
+- 🔄 Real-time monitoring across all React platforms
 - 🎨 Beautiful native UI optimized for macOS
 - 📱 Supports iOS, Android, Web, tvOS, Apple Vision Pro, Android TV, VR/AR and more
 - 🔌 Socket.IO integration for reliable device communication
