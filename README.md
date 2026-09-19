@@ -121,11 +121,9 @@ No more copy-pasting logs into a chat window. The agent has hands.
 
 ### 📸 Visual Showcase
 
-![devtools](https://github.com/user-attachments/assets/a732d6a3-9963-49e3-b0f1-0d974a0a74d7)
+ <img width="500" height="935" alt="preview" src="https://github.com/user-attachments/assets/c877631a-df34-4194-803c-53ece8d6eb24" />
 
-<img src="https://github.com/user-attachments/assets/39e5c417-be4d-46af-8138-3589d73fce9f" alt="Buoy Desktop — external React Native debugging dashboard on macOS" style="max-width: 90%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-
-<img src="https://github.com/user-attachments/assets/60e704c1-621e-4743-b6a7-64b2c3291c97" alt="Real-time debugging on a physical iOS device" style="max-width: 90%; border-radius: 10px; margin-top: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+ <img width="1140" height="940" alt="Screenshot 2026-09-19 at 4 59 16 PM" src="https://github.com/user-attachments/assets/9b4a35b0-e790-4347-9c51-970cd762d7d0" />
 
 </div>
 
